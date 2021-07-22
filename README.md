@@ -1,5 +1,4 @@
 # hello-world
-My very first repo
 So hello everyone, my name is BrightSidedGaming45 and I am a Gaming YouTuber and now, I am learning coding.
 
 I have a friend from my society only...and his profile id is ==> @Typh0n12.
