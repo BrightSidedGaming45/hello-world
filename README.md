@@ -1,7 +1,7 @@
 # hello-world
 So hello everyone, my name is BrightSidedGaming45 and I am a Gaming YouTuber and now, I am learning coding.
 
-I have a friend from my society only...and his profile id is ==> @Typh0n12.
+I have a friend from my society only...and his profile id is ==> @C4TT0.
 
 If you want to contact me...there are 2 ways :
 (1) by sending me mail on my email-id which is "  kaminidev2019@gmail.com  "
